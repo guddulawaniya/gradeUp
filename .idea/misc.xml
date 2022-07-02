@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/drawable/alreadyhaveaccountbg.xml" value="0.1485" />
+        <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/drawable/bacgroudcolor.xml" value="0.1485" />
+        <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/drawable/freestartbutton.xml" value="0.1485" />
+        <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/drawable/linearsearchingprofile.xml" value="0.2295" />
+        <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/drawable/mainactivitybg.xml" value="0.1485" />
+        <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/layout/activity_log_in.xml" value="0.25" />
+        <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/layout/activity_profile.xml" value="0.264" />
+        <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
+        <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/layout/card_view_sample.xml" value="0.4" />
+        <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/layout/sliderimage.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
