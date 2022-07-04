@@ -5,15 +5,31 @@
       <map>
         <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/drawable/alreadyhaveaccountbg.xml" value="0.1485" />
         <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/drawable/bacgroudcolor.xml" value="0.1485" />
+        <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/drawable/customdialogbox.xml" value="0.2295" />
         <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/drawable/freestartbutton.xml" value="0.1485" />
+        <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/drawable/gridebackgroud.xml" value="0.2295" />
+        <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/drawable/linearbackpayment.xml" value="0.2295" />
         <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/drawable/linearsearchingprofile.xml" value="0.2295" />
         <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/drawable/mainactivitybg.xml" value="0.1485" />
+        <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/drawable/paymentmethodbg.xml" value="0.2295" />
+        <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/drawable/paymenttopcolor.xml" value="0.2295" />
+        <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/drawable/rupyeicon.xml" value="0.2295" />
+        <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/drawable/videobackground.xml" value="0.2295" />
+        <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/drawable/wallet.xml" value="0.2295" />
         <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/layout/activity_log_in.xml" value="0.25" />
-        <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/layout/activity_main.xml" value="0.264" />
-        <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/layout/activity_profile.xml" value="0.264" />
-        <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/layout/activity_main.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/layout/activity_mock_test.xml" value="0.264" />
+        <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/layout/activity_payment.xml" value="0.20521590423257802" />
+        <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/layout/activity_profile.xml" value="0.2" />
+        <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/layout/activity_sign_up.xml" value="0.264" />
         <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
-        <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/layout/card_view_sample.xml" value="0.4" />
+        <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/layout/card_view_sample.xml" value="0.264" />
+        <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/layout/customdialogbox.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/layout/fragment_debit_card.xml" value="0.25" />
+        <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/layout/fragment_wallet.xml" value="0.2359375" />
+        <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/layout/mainrecyclerview.xml" value="0.2" />
+        <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/layout/navbar_profile.xml" value="0.6" />
+        <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/layout/otherexamview_sample.xml" value="0.24895833333333334" />
         <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/layout/sliderimage.xml" value="0.25" />
       </map>
     </option>

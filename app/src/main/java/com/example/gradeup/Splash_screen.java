@@ -19,11 +19,15 @@ public class Splash_screen extends AppCompatActivity {
 
         ImageView rocket = findViewById(R.id.rocket);
         TextView name = findViewById(R.id.appname);
+       TextView prepsmart = findViewById(R.id.presmart);
+       TextView betterscore = findViewById(R.id.betterscore);
 
         Animation imagerocket = AnimationUtils.loadAnimation(this,R.anim.image_animation);
-        rocket.startAnimation(imagerocket);
+        betterscore.startAnimation(imagerocket);
+
         Animation appanimation = AnimationUtils.loadAnimation(this,R.anim.text_animation);
-        name.startAnimation(appanimation);
+        prepsmart.startAnimation(appanimation);
+
 
         new Handler().postDelayed(new Runnable() {
             @Override

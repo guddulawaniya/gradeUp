@@ -11,27 +11,47 @@
 
     <ImageView
         android:id="@+id/rocket"
-        android:layout_width="100dp"
-        android:layout_height="100dp"
+        android:layout_width="69dp"
+        android:layout_height="55dp"
         app:srcCompat="@drawable/rocket" />
 
     <TextView
         android:id="@+id/appname"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         android:gravity="center"
-        android:text="Grade UP"
+        android:text="ioexam"
         android:textColor="@color/white"
-        android:textSize="25sp"
+        android:textSize="55sp"
         android:textStyle="bold" />
 
-    <TextView
-        android:id="@+id/textView5"
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:text="Prep smart. Score better"
-        android:textColor="@color/white"
-        android:textSize="16sp" />
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/presmart"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Prep smart."
+            android:textColor="@color/white"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/betterscore"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="2dp"
+            android:gravity="center"
+            android:text="Score better"
+            android:textColor="@color/white"
+            android:textSize="16sp" />
+
+
+    </LinearLayout>
+
 </LinearLayout>
