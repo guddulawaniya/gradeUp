@@ -24,8 +24,15 @@ public class SignUp_Activity extends AppCompatActivity {
         setContentView(R.layout.activity_sign_up);
 
         sliderView = findViewById(R.id.image_slider);
+        SliderAdapter sliderAdapter = new SliderAdapter(images);
+
+        sliderView.setSliderAdapter(sliderAdapter);
+        sliderView.setIndicatorAnimation(IndicatorAnimationType.WORM);
+        sliderView.setSliderTransformAnimation(SliderAnimations.DEPTHTRANSFORMATION);
+        sliderView.startAutoCycle();
 
         Button continuebutton = findViewById(R.id.continuebutton);
+
         continuebutton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -34,12 +41,5 @@ public class SignUp_Activity extends AppCompatActivity {
                 finish();
             }
         });
-
-        SliderAdapter sliderAdapter = new SliderAdapter(images);
-
-        sliderView.setSliderAdapter(sliderAdapter);
-        sliderView.setIndicatorAnimation(IndicatorAnimationType.WORM);
-        sliderView.setSliderTransformAnimation(SliderAnimations.DEPTHTRANSFORMATION);
-        sliderView.startAutoCycle();
     }
 }

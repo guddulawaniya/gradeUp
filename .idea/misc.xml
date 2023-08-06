@@ -28,13 +28,13 @@
         <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/layout/fragment_debit_card.xml" value="0.25" />
         <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/layout/fragment_wallet.xml" value="0.2359375" />
         <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/layout/mainrecyclerview.xml" value="0.2" />
-        <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/layout/navbar_profile.xml" value="0.6" />
+        <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/layout/navbar_profile.xml" value="0.2" />
         <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/layout/otherexamview_sample.xml" value="0.24895833333333334" />
         <entry key="..\:/Users/guddu/AndroidStudioProjects/GradeUp/app/src/main/res/layout/sliderimage.xml" value="0.25" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

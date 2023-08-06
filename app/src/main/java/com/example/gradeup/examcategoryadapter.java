@@ -1,6 +1,7 @@
 package com.example.gradeup;
 
 import android.content.Context;
+import android.content.Intent;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -35,6 +36,13 @@ public class examcategoryadapter extends RecyclerView.Adapter<examcategoryadapte
         holder.image.setImageResource(model.getImage());
         holder.examname.setText(model.getCorsename());
         holder.title.setText(model.getTitle());
+        holder.itemView.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(context,mock_test_activity.class);
+                context.startActivity(intent);
+            }
+        });
 
     }
 
